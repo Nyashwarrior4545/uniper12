@@ -1,0 +1,31 @@
+/* src/components/AuthStyles.css */
+
+.auth-container {
+    width: 300px;
+    margin: auto;
+    margin-top: 100px; /* Adjust as needed for vertical positioning */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Add additional styling as needed */
+  .login-button{
+    background-color: #1aac83;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+
+  /* Add this to your CSS file or styles */
+.material-symbols-outlined {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  outline: none;
+}
